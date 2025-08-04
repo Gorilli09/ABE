@@ -1,0 +1,1 @@
+Each CPU architecture should have its own folder. (Inspiration: MAME, FinalBurn Neo)
