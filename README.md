@@ -1,2 +1,2 @@
-# BetEmu
-A multi-platform emulator.
+# ABE
+A better emulator.
