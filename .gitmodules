@@ -1,0 +1,45 @@
+[submodule "Third-party/SDL/SDL"]
+	path = Third-party/SDL/SDL
+	url = https://github.com/libsdl-org/SDL.git
+[submodule "Third-party/7zip/7zip"]
+	path = Third-party/7zip/7zip
+	url = https://github.com/ip7z/7zip.git
+[submodule "Third-party/discord-rpc/discord-rpc"]
+	path = Third-party/discord-rpc/discord-rpc
+	url = https://github.com/discord/discord-rpc.git
+[submodule "Third-party/cubeb/cubeb"]
+	path = Third-party/cubeb/cubeb
+	url = https://github.com/mozilla/cubeb.git
+[submodule "Third-party/libpng/libpng"]
+	path = Third-party/libpng/libpng
+	url = https://github.com/pnggroup/libpng.git
+[submodule "Third-party/libusb/libusb"]
+	path = Third-party/libusb/libusb
+	url = https://github.com/libusb/libusb.git
+[submodule "Third-party/zlib/zlib"]
+	path = Third-party/zlib/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "Third-party/rcheevos/rcheevos"]
+	path = Third-party/rcheevos/rcheevos
+	url = https://github.com/RetroAchievements/rcheevos.git
+[submodule "Third-party/hidapi/hidapi"]
+	path = Third-party/hidapi/hidapi
+	url = https://github.com/libusb/hidapi.git
+[submodule "Third-party/SFML/SFML"]
+	path = Third-party/SFML/SFML
+	url = https://github.com/SFML/SFML.git
+[submodule "Third-party/curl/curl"]
+	path = Third-party/curl/curl
+	url = https://github.com/curl/curl.git
+[submodule "Third-party/Vulkan-headers/Vulkan-headers"]
+	path = Third-party/Vulkan-headers/Vulkan-headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+[submodule "Third-party/FFmpeg/FFmpeg"]
+	path = Third-party/FFmpeg/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "Third-party/imgui/imgui"]
+	path = Third-party/imgui/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "Third-party/rapidjson/rapidjson"]
+	path = Third-party/rapidjson/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
