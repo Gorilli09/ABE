@@ -1,45 +1,54 @@
-[submodule "Third-party/SDL/SDL"]
-	path = Third-party/SDL/SDL
+[submodule "Externals/SDL"]
+	path = Externals/SDL
 	url = https://github.com/libsdl-org/SDL.git
-[submodule "Third-party/7zip/7zip"]
-	path = Third-party/7zip/7zip
+[submodule "Externals/7zip"]
+	path = Externals/7zip
 	url = https://github.com/ip7z/7zip.git
-[submodule "Third-party/discord-rpc/discord-rpc"]
-	path = Third-party/discord-rpc/discord-rpc
+[submodule "Externals/discord-rpc"]
+	path = Externals/discord-rpc
 	url = https://github.com/discord/discord-rpc.git
-[submodule "Third-party/cubeb/cubeb"]
-	path = Third-party/cubeb/cubeb
+[submodule "Externals/cubeb"]
+	path = Externals/cubeb
 	url = https://github.com/mozilla/cubeb.git
-[submodule "Third-party/libpng/libpng"]
-	path = Third-party/libpng/libpng
+[submodule "Externals/libpng"]
+	path = Externals/libpng
 	url = https://github.com/pnggroup/libpng.git
-[submodule "Third-party/libusb/libusb"]
-	path = Third-party/libusb/libusb
+[submodule "Externals/libusb"]
+	path = Externals/libusb
 	url = https://github.com/libusb/libusb.git
-[submodule "Third-party/zlib/zlib"]
-	path = Third-party/zlib/zlib
+[submodule "Externals/zlib"]
+	path = Externals/zlib
 	url = https://github.com/madler/zlib.git
-[submodule "Third-party/rcheevos/rcheevos"]
-	path = Third-party/rcheevos/rcheevos
+[submodule "Externals/rcheevos"]
+	path = Externals/rcheevos
 	url = https://github.com/RetroAchievements/rcheevos.git
-[submodule "Third-party/hidapi/hidapi"]
-	path = Third-party/hidapi/hidapi
+[submodule "Externals/hidapi"]
+	path = Externals/hidapi
 	url = https://github.com/libusb/hidapi.git
-[submodule "Third-party/SFML/SFML"]
-	path = Third-party/SFML/SFML
+[submodule "Externals/SFML"]
+	path = Externals/SFML
 	url = https://github.com/SFML/SFML.git
-[submodule "Third-party/curl/curl"]
-	path = Third-party/curl/curl
+[submodule "Externals/curl"]
+	path = Externals/curl
 	url = https://github.com/curl/curl.git
-[submodule "Third-party/Vulkan-headers/Vulkan-headers"]
-	path = Third-party/Vulkan-headers/Vulkan-headers
+[submodule "Externals/Vulkan-headers"]
+	path = Externals/Vulkan-headers
 	url = https://github.com/KhronosGroup/Vulkan-Headers.git
-[submodule "Third-party/FFmpeg/FFmpeg"]
-	path = Third-party/FFmpeg/FFmpeg
+[submodule "Externals/FFmpeg"]
+	path = Externals/FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg.git
-[submodule "Third-party/imgui/imgui"]
-	path = Third-party/imgui/imgui
+[submodule "Externals/imgui"]
+	path = Externals/imgui
 	url = https://github.com/ocornut/imgui.git
-[submodule "Third-party/rapidjson/rapidjson"]
-	path = Third-party/rapidjson/rapidjson
+[submodule "Externals/rapidjson"]
+	path = Externals/rapidjson
 	url = https://github.com/Tencent/rapidjson.git
+[submodule "Externals/openal-soft"]
+	path = Externals/openal-soft
+	url = https://github.com/kcat/openal-soft.git
+[submodule "Externals/lodepng"]
+	path = Externals/lodepng
+	url = https://github.com/lvandeve/lodepng.git
+[submodule "Externals/VulkanMemoryAllocator"]
+	path = Externals/VulkanMemoryAllocator
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
