@@ -24,7 +24,7 @@
 	url = https://github.com/RetroAchievements/rcheevos.git
 [submodule "Externals/hidapi"]
 	path = Externals/hidapi
-	url = https://github.com/libusb/hidapi.git
+	url = https://github.com/jarveson/hidapi.git
 [submodule "Externals/SFML"]
 	path = Externals/SFML
 	url = https://github.com/SFML/SFML.git
@@ -52,3 +52,57 @@
 [submodule "Externals/VulkanMemoryAllocator"]
 	path = Externals/VulkanMemoryAllocator
 	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
+[submodule "Externals/asmjit"]
+	path = Externals/asmjit
+	url = https://github.com/asmjit/asmjit.git
+[submodule "Externals/flatbuffers"]
+	path = Externals/flatbuffers
+	url = https://github.com/google/flatbuffers.git
+[submodule "Externals/Fusion"]
+	path = Externals/Fusion
+	url = https://github.com/xioTechnologies/Fusion.git
+[submodule "Externals/glslang"]
+	path = Externals/glslang
+	url = https://github.com/KhronosGroup/glslang.git
+[submodule "Externals/pugixml"]
+	path = Externals/pugixml
+	url = https://github.com/zeux/pugixml.git
+[submodule "Externals/wolfssl"]
+	path = Externals/wolfssl
+	url = https://github.com/wolfSSL/wolfssl.git
+[submodule "Externals/yaml-cpp"]
+	path = Externals/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "Externals/Vulkan-Headers"]
+	path = Externals/Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers.git
+[submodule "Externals/fmt"]
+	path = Externals/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "Externals/googletest"]
+	path = Externals/googletest
+	url = https://github.com/google/googletest.git
+[submodule "Externals/implot"]
+	path = Externals/implot
+	url = https://github.com/epezent/implot.git
+[submodule "Externals/libadrenotools"]
+	path = Externals/libadrenotools
+	url = https://github.com/bylaws/libadrenotools.git
+[submodule "Externals/libspng"]
+	path = Externals/libspng
+	url = https://github.com/randy408/libspng.git
+[submodule "Externals/minizip-ng"]
+	path = Externals/minizip-ng
+	url = https://github.com/zlib-ng/minizip-ng.git
+[submodule "Externals/SPIRV-Cross"]
+	path = Externals/SPIRV-Cross
+	url = https://github.com/KhronosGroup/SPIRV-Cross.git
+[submodule "Externals/tinygltf"]
+	path = Externals/tinygltf
+	url = https://github.com/syoyo/tinygltf.git
+[submodule "Externals/xxHash"]
+	path = Externals/xxHash
+	url = https://github.com/Cyan4973/xxHash.git
+[submodule "Externals/zlib-ng"]
+	path = Externals/zlib-ng
+	url = https://github.com/zlib-ng/zlib-ng.git
