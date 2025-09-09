@@ -1,5 +1,5 @@
 # ABE
-ABE is a software-based multi-platform emulator.
+ABE is a multi-platform emulator.
 
 ## Features 
 * Save states 
