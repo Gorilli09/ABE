@@ -10,9 +10,10 @@ ABE is a multi-platform emulator.
 * Save manager
 * Obscure and unused, but hidden feature support (touchscreen, multi-gesture touchpad, light sensor, screen rotation, pen, RGB lighting, etc.)
 * Automatic controller remapping & peripheral swapping by game and system
-* Arcade link cable play through LAN and separate windows 
+* Arcade link cable play through LAN and separate windows
 * Automatic button remapping by memory(?)
 * Mass storage device passthrough
+* Control guide when launching a game and before the game starts
 * Steam Input API(?)
 
 ## Planned emulated systems
