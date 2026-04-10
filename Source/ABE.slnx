@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ABE.vcxproj" Id="04a7ca1b-4378-43f9-81db-416a7d578496" />
+</Solution>

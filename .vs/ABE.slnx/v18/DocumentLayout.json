@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inaft\\source\\repos\\ABE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04A7CA1B-4378-43F9-81DB-416A7D578496}|ABE.vcxproj|C:\\Users\\inaft\\source\\repos\\ABE\\ABE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04A7CA1B-4378-43F9-81DB-416A7D578496}|ABE.vcxproj|solutionrelative:ABE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ABE.cpp",
+              "DocumentMoniker": "C:\\Users\\inaft\\source\\repos\\ABE\\ABE.cpp",
+              "RelativeDocumentMoniker": "ABE.cpp",
+              "ToolTip": "C:\\Users\\inaft\\source\\repos\\ABE\\ABE.cpp",
+              "RelativeToolTip": "ABE.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T00:39:18.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -47,7 +47,7 @@ ABE is a multi-platform emulator.
 * Game Gear
 * Intellivision
 * Interton VC 4000
-* J2ME
+* J2ME (mobile only)
 * Mac OS
 * Magnavox Odyssey 2
 * Master System
@@ -56,11 +56,11 @@ ABE is a multi-platform emulator.
 * MSX
 * Neo Geo CD
 * Neo Geo Pocket
-* N-Gage
-* Nintendo 3DS
+* N-Gage (mobile only)
+* Nintendo 3DS (mobile only)
 * Nintendo 64
 * Nintendo DS
-* Nintendo DSi
+* Nintendo DSi (mobile only)
 * Nintendo Entertainment System
 * Nintendo GameCube
 * Oric
@@ -75,7 +75,7 @@ ABE is a multi-platform emulator.
 * PlayStation 2
 * PlayStation 3
 * PlayStation Portable
-* PlayStation Vita
+* PlayStation Vita (mobile only)
 * Pokémon Mini
 * Sega CD
 * Sega Genesis
@@ -86,6 +86,7 @@ ABE is a multi-platform emulator.
 * Sharp X68000
 * Super Cassette Vision
 * Super Nintendo Entertainment System
+* Symbian (mobile only)
 * Thomson TO8
 * TI-83
 * TIC-80
