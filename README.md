@@ -8,7 +8,7 @@ ABE is a multi-platform emulator.
 * Rewind
 * RetroAchievements integration
 * Save manager
-* Obscure and unused, but hidden feature support (touchscreen, multi-gesture touchpad, light sensor, screen rotation, pen, RGB lighting, etc.)
+* Obscure and unused, but hidden feature support (touchscreen, multi-gesture touchpad, light sensor, screen rotation, pen, RGB lighting, Surface features, etc.)
 * Automatic controller remapping & peripheral swapping by game and system
 * Arcade link cable play through LAN and separate windows
 * Automatic button remapping by memory(?)
@@ -47,7 +47,7 @@ ABE is a multi-platform emulator.
 * Game Gear
 * Intellivision
 * Interton VC 4000
-* J2ME (mobile only)
+* J2ME
 * Mac OS
 * Magnavox Odyssey 2
 * Master System
@@ -56,11 +56,11 @@ ABE is a multi-platform emulator.
 * MSX
 * Neo Geo CD
 * Neo Geo Pocket
-* N-Gage (mobile only)
-* Nintendo 3DS (mobile only)
+* N-Gage
+* Nintendo 3DS
 * Nintendo 64
 * Nintendo DS
-* Nintendo DSi (mobile only)
+* Nintendo DSi
 * Nintendo Entertainment System
 * Nintendo GameCube
 * Oric
@@ -75,7 +75,7 @@ ABE is a multi-platform emulator.
 * PlayStation 2
 * PlayStation 3
 * PlayStation Portable
-* PlayStation Vita (mobile only)
+* PlayStation Vita
 * Pokémon Mini
 * Sega CD
 * Sega Genesis
@@ -86,7 +86,7 @@ ABE is a multi-platform emulator.
 * Sharp X68000
 * Super Cassette Vision
 * Super Nintendo Entertainment System
-* Symbian (mobile only)
+* Symbian
 * Thomson TO8
 * TI-83
 * TIC-80
